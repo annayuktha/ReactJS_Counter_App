@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: black;
+  min-width: 100%;
+  min-height: 100vh;
+}
+
+button{
+  height: 70px;
+  width: 120px;
+  background-color: orange;
+  border: black;
+  padding: 1%;
+  text-align: center;
+  font-size: 2rem;
+  
+}
+button:hover{
+  background-color: antiquewhite;
+  cursor:pointer;
+}
+
+h2{
+  color: white;
+
+}
